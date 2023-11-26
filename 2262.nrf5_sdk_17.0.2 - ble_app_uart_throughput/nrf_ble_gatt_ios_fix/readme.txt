@@ -1,0 +1,1 @@
+Experimental patch. ref. discussion in https://devzone.nordicsemi.com/f/nordic-q-a/44825/ios-mtu-size-why-only-185-bytes 

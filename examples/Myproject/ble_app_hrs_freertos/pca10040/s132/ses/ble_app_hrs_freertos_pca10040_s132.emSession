@@ -1,0 +1,56 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="ble_app_hrs_freertos_pca10040_s132"/>
+  <ProjectSessionItem path="ble_app_hrs_freertos_pca10040_s132;ble_app_hrs_freertos_pca10040_s132"/>
+  <ProjectSessionItem path="ble_app_hrs_freertos_pca10040_s132;ble_app_hrs_freertos_pca10040_s132;Application"/>
+  <ProjectSessionItem path="ble_app_hrs_freertos_pca10040_s132;ble_app_hrs_freertos_pca10040_s132;Board Support"/>
+  <ProjectSessionItem path="ble_app_hrs_freertos_pca10040_s132;ble_app_hrs_freertos_pca10040_s132;nRF_BLE_Services"/>
+  <ProjectSessionItem path="ble_app_hrs_freertos_pca10040_s132;ble_app_hrs_freertos_pca10040_s132;nRF_Libraries"/>
+  <ProjectSessionItem path="ble_app_hrs_freertos_pca10040_s132;ble_app_hrs_freertos_pca10040_s132;nRF_Segger_RTT"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="857" useTextEdit="1" path="../../../main.c" left="0" selected="1" top="800" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="286" useTextEdit="1" openedFrom="F:/NoideCode/nRF5_SDK_17.1.0_ddde560/examples/ble_peripheral/ble_app_hrs_freertos/main.c" path="../../../../../../components/ble/ble_services/ble_hrs/ble_hrs.c" left="0" top="286" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="F:/NoideCode/nRF5_SDK_17.1.0_ddde560/components/ble/ble_services/ble_hrs/ble_hrs.c" path="../../../../../../components/ble/ble_services/ble_hrs/ble_hrs.h" left="0" top="209" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="15" y="45" useTextEdit="1" path="../../../../../../components/ble/ble_services/ble_dis/ble_dis.c" left="0" top="36" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="F:/NoideCode/nRF5_SDK_17.1.0_ddde560/components/ble/ble_services/ble_dis/ble_dis.c" path="../../../../../../components/ble/ble_services/ble_dis/ble_dis.h" left="0" top="21" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="39" useTextEdit="1" openedFrom="F:/NoideCode/nRF5_SDK_17.1.0_ddde560/examples/ble_peripheral/ble_app_hrs_freertos/main.c" path="../../../../../../components/libraries/sensorsim/sensorsim.c" left="0" top="13" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="23" y="43" useTextEdit="1" openedFrom="F:/NoideCode/nRF5_SDK_17.1.0_ddde560/components/libraries/sensorsim/sensorsim.c" path="../../../../../../components/libraries/sensorsim/sensorsim.h" left="0" top="18" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="182" useTextEdit="1" openedFrom="F:/NoideCode/nRF5_SDK_17.1.0_ddde560/examples/ble_peripheral/ble_app_hrs_freertos/main.c" path="../../../../../../components/libraries/bsp/bsp_btn_ble.c" left="0" top="166" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="38" y="497" useTextEdit="1" openedFrom="F:/NoideCode/nRF5_SDK_17.1.0_ddde560/examples/ble_peripheral/ble_app_hrs_freertos/main.c" path="../../../../../../components/softdevice/s132/headers/nrf_soc.h" left="0" top="481" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="ble_app_hrs_freertos_pca10040_s132" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
